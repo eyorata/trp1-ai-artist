@@ -198,4 +198,4 @@ into provider behavior, orchestration logic, and failure modes.
 Links
 YouTube Video: Not available (video generation blocked by SDK limitation)
 
-GitHub Repository: https://github.com/10xac/trp1-ai-artist
+GitHub Repository: https://github.com/eyorata/trp1-ai-artist
